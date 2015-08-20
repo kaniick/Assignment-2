@@ -258,6 +258,7 @@ grid.arrange(p1, p2, main="Top deadly weather events in the US (1950-2011)")
 ```
 
 ![plot of chunk unnamed-chunk-11](figure/unnamed-chunk-11.png) 
+Figure 1: Top dangerous weather event types
 
 Tornadoes cause most number of deaths and injuries among all event types. There 
 are more than 5,000 deaths and more than 10,000 injuries in the last 60 years
@@ -297,6 +298,8 @@ grid.arrange(p1, p2, main="Weather costs to the US economy (1950-2011)")
 ```
 
 ![plot of chunk unnamed-chunk-12](figure/unnamed-chunk-12.png) 
+figure 2: The most severe weather event types with respect to
+economic cost that they have costed since 1950s
 
 Property damages are given in logarithmic scale due to large range of values.
 The data shows that flash floods and thunderstorm winds cost the largest
