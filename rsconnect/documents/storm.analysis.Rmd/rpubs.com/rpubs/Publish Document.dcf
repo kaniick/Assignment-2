@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/102148/69a24bbe78e8437d9aa2ed14037cba46
+url: http://rpubs.com/Kaniick/102148/edit
+when: 1440108932.46483
